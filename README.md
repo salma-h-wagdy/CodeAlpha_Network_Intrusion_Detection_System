@@ -1,5 +1,7 @@
-# Network Intrusion Detection System (NIDS) using Suricata (on Ubuntu)
+# Network Intrusion Detection System (NIDS) using Suricata 
+
 This project implements a Network Intrusion Detection System (NIDS) using Suricata, an open-source Intrusion Detection and Prevention System (IDPS) engine. Suricata is utilized to monitor network traffic and detect suspicious activities based on custom-defined rules.
+#### (used Ubuntu)
 ## Features
 <ul>
     <li>Rule-Based Detection: Utilizes Suricata's rule-based detection engine to identify various network-based attacks and anomalies.</li>
